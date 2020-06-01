@@ -7,6 +7,6 @@ Este espaço é de artigos em geral que eu criei.
 
 ---
 
-- [Convert columns (Continuous Data to Categorical Data):](https://github.com/janderfg/Articles/blob/master/Convert_columns_continuous_data_to_categorical_data.ipynb "Github") Convertendo colunas (dados contínuos para dados categóricos) - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-pandas-cientistadedados-activity-6672195467528417280-_tNL) dia 29/05/2020.
+- [Convert columns (Continuous Data to Categorical Data):](https://github.com/janderfg/Articles/blob/master/Highlight_Missing_Values.ipynb "Github") Convertendo colunas (dados contínuos para dados categóricos) - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-pandas-cientistadedados-activity-6672195467528417280-_tNL) dia 29/05/2020.
 
-
+- [Highlight Missing Values (Destacando Valores Ausentes):](https://github.com/janderfg/Articles/blob/master/Convert_columns_continuous_data_to_categorical_data.ipynb "Github") Destacando valores ausentes/faltantes (NaN/Null/Missing Values) - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-dados-pandas-activity-6673209646381117440-zmEX) dia 01/06/2020.
