@@ -14,3 +14,6 @@ Este espaço é de artigos em geral que eu criei.
 - [Visualizing "n" Largest or "n" Smallest (Visualizando "N" maiores ou menores valores):](https://github.com/janderfg/Articles/blob/master/Visualizing_N_Largest_or_N_Smallest.ipynb "Github") Visualizando "N" maiores ou menores valores. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_pandas-python-anaerlisededados-activity-6684800036510994432-6V1-) dia 03/07/2020.
 
 - [Removing Duplicated (Removendo linhas duplicadas):](https://github.com/janderfg/Articles/blob/master/Removing_Duplicated.ipynb "Github") Removendo linhas duplicadas. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_pandas-python-datascience-activity-6691690291704971265-56Km-) dia 22/07/2020.
+
+- [Filtering Data (Filtrando Dados):](https://github.com/janderfg/Articles/blob/master/Filtering_Data.ipynb "Github") Filtrando Dados. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_pandas-python-anaerlisededados-activity-6693149091528011776-c8fa) dia 26/07/2020.
+
