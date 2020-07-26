@@ -1,6 +1,3 @@
-![Test Image 2](https://github.com/janderfg/Articles/blob/master/images/data_science.png?raw=true)
-
-
 # Articles / Artigos
 This README.md is the Table of Contents.  
 This is a space for articles in general that I have created.
