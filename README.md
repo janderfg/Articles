@@ -17,3 +17,9 @@ Este espaço é de artigos em geral que eu criei.
 
 - [Filtering Data (Filtrando Dados):](https://github.com/janderfg/Articles/blob/master/Filtering_Data.ipynb "Github") Filtrando Dados. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_pandas-python-anaerlisededados-activity-6693149091528011776-c8fa) dia 26/07/2020.
 
+- [Splitting columns (Separando Colunas):](https://github.com/janderfg/Articles/blob/master/Split_Columns_first_names_last_names.ipynb "Github") Separando Colunas. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-analistadedados-cientistadedados-activity-6697472851856900096-7EZA) dia 07/08/2020.
+
+
+
+
+
