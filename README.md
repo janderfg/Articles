@@ -19,6 +19,9 @@ Este espaço é de artigos em geral que eu criei.
 
 - [Splitting columns (Separando Colunas):](https://github.com/janderfg/Articles/blob/master/Split_Columns_first_names_last_names.ipynb "Github") Separando Colunas. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-analistadedados-cientistadedados-activity-6697472851856900096-7EZA) dia 07/08/2020.
 
+- [Removing Currency Sign (Removendo Sinais de Moeda):](https://github.com/janderfg/Articles/blob/master/Removing_Currency_Sign.ipynb "Github") Separando Colunas. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-pandas-analisededados-activity-6698925709588512768-kAx0) dia 11/08/2020.
+
+
 
 
 
