@@ -1,4 +1,4 @@
-# Articles / Artigos
+# Articles and Tips / Artigos e Dicas
 This README.md is the Table of Contents.  
 This is a space for articles in general that I have created.
 
