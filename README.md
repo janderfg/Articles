@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/janderfg/)](https://www.linkedin.com/in/janderfg/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:janderfernandes@gmail.com)](mailto:janderfernandes@gmail.com)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https:https://medium.com/@janderfernandes)](mailto:janderfernandes@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&logoColor=white&link=https:https://medium.com/@janderfernandes)](https://medium.com/@janderfernandes)
 
 
 
