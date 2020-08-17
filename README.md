@@ -21,7 +21,7 @@ Este espaço é de artigos em geral que eu criei.
 
 - [Removing Currency Sign (Removendo Sinais de Moeda):](https://github.com/janderfg/Articles/blob/master/Removing_Currency_Sign.ipynb "Github") Separando Colunas. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_python-pandas-analisededados-activity-6698925709588512768-kAx0) dia 11/08/2020.
 
-- [Converting_Date_to_Weekdays (Convertendo Data para Dias da Semana):](https://github.com/janderfg/Articles/blob/master/Converting_Date_to_Weekdays.ipynb "Github") Convertendo data para dias da semana. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_anaerlisededados-python-datascience-activity-6700768079833575424-0VuL) dia 16/08/2020.
+- [Converting_Date_to_Weekdays (Convertendo Data para Dias da Semana):](https://github.com/janderfg/Articles/blob/master/Converting_Date_to_Weekdays.ipynb "Github") Convertendo data para dias da semana. - Postado no [LinkedIn](https://www.linkedin.com/posts/janderfg_anaerlisededados-python-datascience-activity-6700768079833575424-0VuL) dia 17/08/2020.
 
 
 
