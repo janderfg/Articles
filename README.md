@@ -1,5 +1,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/janderfg/)](https://www.linkedin.com/in/janderfg/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:thomazrossito@gmail.com)](mailto:thomazrossito@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:janderfernandes@gmail.com)](mailto:janderfernandes@gmail.com)
+
+
+
 
 # Articles and Tips / Artigos e Dicas
 This README.md is the Table of Contents.  
