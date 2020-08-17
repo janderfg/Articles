@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/janderfg/)](https://www.linkedin.com/in/janderfg/)
+
 # Articles and Tips / Artigos e Dicas
 This README.md is the Table of Contents.  
 This is a space for articles in general that I have created.
